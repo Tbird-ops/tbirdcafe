@@ -23,7 +23,7 @@ theme = 'hugo-theme-m10c'
 [params]
     author = 'Tbird'
     description = 'Curious soul with a loud mind'
-    avatar = 'images/pfp.jpg'
+    avatar = 'images/pfp.png'
     menu_item_separator = " | "
 
 # TBIRD theme
@@ -33,6 +33,7 @@ theme = 'hugo-theme-m10c'
   lightColor = "#CAD2C5"
   lightestColor = "#FFFFFF"
   primaryColor = "#40e0d0"
+  codeColor = "#8881ec"
 
 # Default theme
 # [params.style]
