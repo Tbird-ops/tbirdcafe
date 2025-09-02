@@ -24,6 +24,6 @@ Although I can't speak for those who are die hard Apache web server people, I ju
 So alas, I thought I was maybe just gonna have to deal with some poor uptime, but from a mention of a friend I discovered [Cloudflare pages](https://developers.cloudflare.com/pages/)! As long as you have a static content site (check! Hugo makes static sites!) it can be deployed starting for free! At this point I find their free tier to be quite enough to get started and think that will likely be the case for a while.
 
 To the old saying:
-> It's about` the journey, not the destination
+> It's about the journey, not the destination
 
 This has been a very good time of exploring and learning to get here. It could have been much shorter, but sometimes life gets busy and in the way of non-pressing issues. Maybe sometime down the road this site will be more handcrafted. Time will tell.
