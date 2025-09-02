@@ -128,7 +128,7 @@ Shout out to the faculty and staff team for all their help
 - Eric for helping with all our networking needs
 
 {{< figure src="/images/cyberconquest2025-setup.jpg" title="core team at 7am after setting up all night" width="500" >}}
-The lead admins for their reliable support and efforts to put this together in many capacities
+The lead team for their reliable support and efforts to put this together in many capacities
 - Brandon
 - Gaelin
 - Gillian
