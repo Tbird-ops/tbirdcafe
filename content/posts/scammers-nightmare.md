@@ -1,6 +1,6 @@
 +++
 date = '2025-09-02T12:09:05-05:00'
-draft = true
+draft = false
 title = "A Scammer's Nightmare"
 tags = ['OSINT', 'Web Security']
 +++
